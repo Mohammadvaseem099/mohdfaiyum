@@ -1,0 +1,13 @@
+
+body{
+background-color: rgb(231, 207, 207);
+}
+.my1{
+    width: 500px;
+    height: 800px;
+    text-align: center;
+    background-color: pink;
+}
+div{
+    margin-left: 31%;
+}

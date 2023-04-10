@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(241, 222, 222);
+    }
+    .my2{
+        width: 600px;
+        height: 800px;
+        text-align: center;
+        background-color: pink;
+    }
+    div{
+        margin-left: 28%;
+    }

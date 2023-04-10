@@ -1,0 +1,12 @@
+.my{
+    width: 500px;
+    height: 2200px;
+    text-align: center;
+    background-color: pink;
+}
+div{
+    margin-left: 30%;
+}
+body{
+    background-color: burlywood;
+}

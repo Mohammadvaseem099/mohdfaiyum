@@ -1,0 +1,12 @@
+/* body{
+    background-color: red;
+} */
+.make{
+    width: 500px;
+    height: 800px;
+    text-align: center;
+    background-color: pink;
+}
+div{
+    margin-left: 30%;
+}
