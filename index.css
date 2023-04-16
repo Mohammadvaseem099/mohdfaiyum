@@ -36,7 +36,7 @@ nav ul li a:hover{
 }
 img{
     width: 200px;
-    height: 250px;
+    height: 220px;
 }
 .detel{
     margin-left: 8%;
@@ -65,8 +65,11 @@ span{
     border-radius: px;
 }
 h1{
-    margin-left: 12%;
+    margin-left: 15%;
     color: rgb(255, 0, 128);
+}
+h3{
+    margin-left: 15%;
 }
 /* .images{
     width: 45%;
